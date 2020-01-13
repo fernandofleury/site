@@ -1,31 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="description" content="General Frontend content / development opinion">
-    <meta name="keywords" content="Fernando Fleury, Fleury, front-end, development, web development, web">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="description" content="Software development content" />
+    <meta
+      name="keywords"
+      content="Fernando Fleury, Fleury, front-end, development, web development, web"
+    />
 
-    <meta property="og:title" content="Fernando Fleury - Frontend Developer">
-    <meta property="og:url" content="https://fernandofleury.github.io">
-    <meta property="og:description" content="General Frontend content / development opinion">
-    <meta property="og:type" content="website">
-    <meta property="og:image" content="/images/static/og_image.jpg">
+    <meta property="og:title" content="Fernando Fleury - Frontend Developer" />
+    <meta property="og:url" content="https://fernandofleury.github.io" />
+    <meta property="og:description" content="Software development content" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="/images/static/og_image.jpg" />
 
-    <link rel="icon" type="image/png" href="images/favicon.png">
+    <link rel="icon" type="image/png" href="images/favicon.png" />
     <title>Fernando Fleury - Frontend Developer</title>
 
     <style>
       html {
+        background-color: #f6efdd;
         box-sizing: border-box;
         color: #5b5e65;
         font-family: Arial, Helvetica, sans-serif;
-        min-height: 100%;
+        height: 100%;
         position: relative;
       }
 
-      *, *::before, *::after {
+      *,
+      *::before,
+      *::after {
         box-sizing: inherit;
         margin: 0;
         padding: 0;
@@ -33,23 +39,18 @@
 
       body {
         margin: 0 0 80px;
+        height: calc(100% - 80px);
       }
 
       .link {
-        color: #73637F;
+        color: #73637f;
         text-decoration: underline;
-      }
-
-      .container {
-        padding: 0 16px;
-        margin: 0 auto;
-        max-width: 700px;
       }
 
       .sticky {
         bottom: 0;
         font-size: 14px;
-        left: 0;
+        left: 16px;
         height: 64px;
         padding-top: 16px;
         position: absolute;
@@ -62,29 +63,11 @@
       }
 
       h1 {
-        color: #574B60;
+        color: #574b60;
+        cursor: pointer;
+        display: inline-block;
         font-size: 40px;
         font-weight: bold;
-      }
-
-      h2 {
-        margin-bottom: 80px;
-      }
-
-      .project {
-        display: block;
-        margin-top: 60px;
-        text-decoration: none;
-      }
-
-      .project-title {
-        color: #73637F;
-        font-size: 30px;
-        text-align: center;
-      }
-
-      .project-img {
-        max-width: 100%;
       }
 
       footer .link {
@@ -98,39 +81,58 @@
   </head>
 
   <body>
-    <div class="container">
-      <header>
+    <audio preload="auto" src="audio/septemberb.mp3"></audio>
+
+    <marquee
+      direction="down"
+      width="100%"
+      height="100%"
+      behavior="alternate"
+      scrolldelay="60"
+    >
+      <marquee behavior="alternate" direction="right" scrolldelay="60">
         <h1>fernando fleury</h1>
-      </header>
+      </marquee>
+    </marquee>
 
-      <h2>Some projects I do for fun on my free time:</h2>
-
-      <section>
-        <a class="project" href="https://fernandofleury.github.io/what-the-chord" rel="noopener noreferrer" target="_blank">
-          <h3 class="project-title">What the Chord</h3>
-          <img class="project-img" src="images/project-wtc.png" alt="What the Chord game" />
-        </a>
-
-        <a class="project" href="https://fernandofleury.github.io/wizard-of-legend-randomizer/wizard-of-legend-randomizer" rel="noopener noreferrer" target="_blank">
-          <h3 class="project-title">Wizard of Legend Randomizer</h3>
-          <img class="project-img" src="images/project-wol.png" alt="Wizard of Legend Randomizer" />
-        </a>
-
-        <a class="project" href="https://fernandofleury.github.io/create-your-game" rel="noopener noreferrer" target="_blank">
-          <h3 class="project-title">Create your game</h3>
-          <img class="project-img" src="images/project-cyg.png" alt="Create your game" />
-        </a>
-      </section>
-
-      <footer class="sticky">
-        <div class="container">
-          <div class="sc-EHOje cNxIZU">Brazilian Frontend Developer based in Berlin (DE).</div>
-
-          <a class="link" href="https://github.com/fernandofleury" rel="noopener noreferrer" target="_blank">Github</a>
-
-          <a class="link" href="https://www.linkedin.com/in/fernandofleurygil/" rel="noopener noreferrer" target="_blank">LinkedIn</a>
+    <footer class="sticky">
+      <div class="container">
+        <div>
+          Brazilian Software Developer based in Berlin (DE). Currently
+          <a
+            class="link"
+            href="https://sumup.com"
+            rel="noopener noreferrer"
+            target="_blank"
+            >@sumup</a
+          >as Frontend Lead.
         </div>
-      </footer>
-    </div>
+
+        <a
+          class="link"
+          href="https://github.com/fernandofleury"
+          rel="noopener noreferrer"
+          target="_blank"
+          >Github</a
+        >
+
+        <a
+          class="link"
+          href="https://www.linkedin.com/in/fernandofleurygil/"
+          rel="noopener noreferrer"
+          target="_blank"
+          >LinkedIn</a
+        >
+      </div>
+    </footer>
+    <script>
+      (function() {
+        var audio = document.querySelector('audio');
+
+        document.querySelector('h1').addEventListener('mouseenter', function() {
+          audio && audio.play();
+        });
+      })();
+    </script>
   </body>
 </html>
