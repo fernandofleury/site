@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply font-sans;
+  font-family: 'Noto Sans';
+}
+
+/* purgecss start ignore */
+.markdown {
+  @apply leading-relaxed text-lg;
+}
+.markdown h2 {
+  @apply text-2xl my-6 font-bold text-pink-900;
+}
+.markdown h3,
+.markdown h4,
+.markdown h5,
+.markdown h6 {
+  @apply text-xl my-5 font-semibold text-pink-900;
+}
+.markdown a {
+  @apply text-pink-900 font-bold;
+}
+.markdown a:hover {
+  @apply underline;
+}
+.markdown p {
+  @apply mb-6;
+}
+.markdown ul,
+.markdown ol {
+  @apply mb-4 ml-8;
+}
+.markdown li > p,
+.markdown li > ul,
+.markdown li > ol {
+  @apply mb-0;
+}
+.markdown ol {
+  @apply list-decimal;
+}
+.markdown ul {
+  @apply list-disc;
+}
+/* purgecss end ignore */
