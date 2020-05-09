@@ -46,6 +46,14 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-purgecss`,
+      options: {
+        printRejected: true,
+        develop: true,
+        tailwind: true,
+      },
+    },
+    {
       resolve: 'gatsby-plugin-manifest',
       options: {
         name: 'Fernando Fleury',

@@ -8,7 +8,7 @@ description: 'Way less complicated than it looks.'
 
 ### What I learned during the hiring and relocation process to a new place.
 
-This topic involves several different points, but I will try to talk about it following a chronological order, ** everything following my point of view. **
+This topic involves several different points, but I will try to talk about it following a chronological order, **everything following my point of view.**
 
 ### Language / Communication
 
@@ -42,7 +42,7 @@ In general, we end up believing that technical knowledge is the determining fact
 
 _Generally this question draws the attention of recruiters / HR from companies. Something close to a “level of employee commitment” thermometer ._
 
-** I believe that each company has its own values, and weight for each one of them. This is my perception in a general way, it does not mean that it is something written in stone. But I believe that if you follow these topics you will be very well qualified to act anywhere in the world. **
+**I believe that each company has its own values, and weight for each one of them. This is my perception in a general way, it does not mean that it is something written in stone. But I believe that if you follow these topics you will be very well qualified to act anywhere in the world.**
 
 This parallel does not escape the moment of the market that we have here. The biggest difference (for those who want to leave, of course) is outside companies generally looking for professionals at the Full / Senior level (I will not discuss labels in this text). So those who think they are "Juniors" may feel that this is not the time for this experience. But as I have been reinforcing throughout the text, all of our perception of where we fit in, and how we are positioned is based on our local market and not the global one.
 
@@ -68,9 +68,9 @@ It is very important to remember that the process of these companies is usually 
 
 In this topic I don't have many tips. Just study for what you think is necessary (according to the requirements of the vacancy), reconcile the anxiety of the process with the day to day and the most important thing is not to be discouraged.
 
-If you don't go to the company (s) you tried, really ** don't get discouraged **. It doesn't mean that you're not good enough, it means that you and the company don't fit. It is important to remember that the hiring process is valid for both sides. You also need to identify with the company. And if you really liked the place, ask for feedback and try again after their allotted time.
+If you don't go to the company (s) you tried, really **don't get discouraged**. It doesn't mean that you're not good enough, it means that you and the company don't fit. It is important to remember that the hiring process is valid for both sides. You also need to identify with the company. And if you really liked the place, ask for feedback and try again after their allotted time.
 
-** About the next topic already has a lot of content, but I will reinforce the points that made a difference for me. I made some pretty stupid decisions right away. **
+**About the next topic already has a lot of content, but I will reinforce the points that made a difference for me. I made some pretty stupid decisions right away.**
 
 ### Relocation Process
 
@@ -94,11 +94,11 @@ And companies help with:
 
 In the company that I am in, they call this _ relocation fund_. You have a predetermined amount to spend on relocation costs. If you need to stay in the hotel longer, or would like to buy a ticket for another class, that money comes out of that fund.
 
-** All points mentioned vary completely from company to company. There is no standard on how the company will help you with relocation. Remember to ask how the process will work and what costs you will have to bear. I can't reinforce this enough. **
+**All points mentioned vary completely from company to company. There is no standard on how the company will help you with relocation. Remember to ask how the process will work and what costs you will have to bear. I can't reinforce this enough.**
 
-There are some documents that you will need to take from here in Brazil. The company will inform you, and whether or not you will have to pay for them varies according to the company (Again). ** Here it is important to remember that the company does not know how long it takes for documents to be ready in Brazil, it is not about being slow / fast, it is just that they do not know. Keep this in mind when planning to take the documents, very important to have it ready as soon as possible. **
+There are some documents that you will need to take from here in Brazil. The company will inform you, and whether or not you will have to pay for them varies according to the company (Again). **Here it is important to remember that the company does not know how long it takes for documents to be ready in Brazil, it is not about being slow / fast, it is just that they do not know. Keep this in mind when planning to take the documents, very important to have it ready as soon as possible.**
 
-Another important point is the time of the relocation process. It will vary based ** on your availability **. This is usually sort of agreed upon during the hiring process. Assuming you already have a deadline to leave, keep an eye on the currency quote you are going to use there, because you will need to take some with you.
+Another important point is the time of the relocation process. It will vary based **on your availability**. This is usually sort of agreed upon during the hiring process. Assuming you already have a deadline to leave, keep an eye on the currency quote you are going to use there, because you will need to take some with you.
 
 How much money do you need to bring? It depends. You need to take some money to spend a month. This month you spend as you like, eating frozen food, or going to a restaurant, who knows. The important thing is that you take a little extra in case of an emergency. The more is up to you too. I took money to pay my rent, change my macbook and a little more to spend the month. In the end I didn't even buy the macbook because I was taken aback by the rental prices / rental model around here.
 
@@ -116,4 +116,4 @@ The company understands the value of your work, and would like you to be part of
 
 I could talk about it for a long time, but the idea is to give you a general idea of ​​what it is like to try to go abroad (and a little bit of what it is like to actually go after the hiring).
 
-The text is indeed well opinionated, and I must have said some shit in the middle. So I sincerely ask that no one get me wrong. The idea is not to offend or belittle anyone's effort. Just to demonstrate that the process is much less complex than people usually imagine. ** I believe that we are very stuck with fear that it is not the moment. That we are never good enough for that. Give yourself the freedom to try. This is much closer than we think it really is. **
+The text is indeed well opinionated, and I must have said some shit in the middle. So I sincerely ask that no one get me wrong. The idea is not to offend or belittle anyone's effort. Just to demonstrate that the process is much less complex than people usually imagine. **I believe that we are very stuck with fear that it is not the moment. That we are never good enough for that. Give yourself the freedom to try. This is much closer than we think it really is.**
