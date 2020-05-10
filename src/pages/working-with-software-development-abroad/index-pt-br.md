@@ -2,8 +2,9 @@
 path: '/blog/pt-br/como-trabalhar-com-desenvolvimento-no-exterior'
 date: '2020-05-11'
 title: 'Como trabalhar com desenvolvimento no exterior'
-locale: 'pt-br'
+locale: 'pt-BR'
 description: 'Muito menos complicado do que parece'
+duration: '10 minutes'
 ---
 
 ### O que eu aprendi durante o processo de contratação e realocação para um novo lugar.

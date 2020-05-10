@@ -1,5 +1,5 @@
 import React from 'react';
-import { graphql } from 'gatsby';
+import { Link, graphql } from 'gatsby';
 
 import Layout from '../components/Layout';
 import SEO from '../components/SEO';
@@ -11,19 +11,46 @@ interface Props {
       frontmatter: {
         title: string;
         date: string;
+        duration: string;
+        translations?: { [key: string]: string }[];
       };
     };
   };
 }
 
+const formatLocale = (str: string) => str.replace('_', '-');
+
 const Template: React.FC<Props> = ({ data }) => {
-  const { frontmatter, html } = data.markdownRemark;
+  const {
+    frontmatter: { translations = [], date, duration, title },
+    html,
+  } = data.markdownRemark;
 
   return (
     <Layout>
-      <SEO title={frontmatter.title} />
-      <h1 className="mt-2 text-3xl text-gray-800">{frontmatter.title}</h1>
-      <h2 className="mb-6">{frontmatter.date}</h2>
+      <SEO title={title} />
+      <h1 className="mt-2 text-2xl lg:text-3xl text-gray-800">{title}</h1>
+      <time className="mb-6">
+        {date} - {duration} read
+      </time>
+      {translations && translations.length && (
+        <div className="my-8">
+          Article also available in{' '}
+          {translations.map(translation => {
+            const [locale] = Object.keys(translation);
+
+            return (
+              <Link
+                key={locale}
+                to={translation[locale]}
+                className="font-bold text-pink-900 underline"
+              >
+                {formatLocale(locale)}
+              </Link>
+            );
+          })}
+        </div>
+      )}
       <div className="markdown" dangerouslySetInnerHTML={{ __html: html }} />
     </Layout>
   );
@@ -37,6 +64,10 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         path
         title
+        duration
+        translations {
+          pt_BR
+        }
       }
     }
   }

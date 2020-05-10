@@ -46,10 +46,10 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-purgecss`,
+      resolve: 'gatsby-plugin-purgecss',
       options: {
         printRejected: true,
-        develop: true,
+        develop: false,
         tailwind: true,
       },
     },
@@ -59,8 +59,8 @@ module.exports = {
         name: 'Fernando Fleury',
         short_name: 'Fernando Fleury',
         start_url: '/',
-        background_color: '#663399',
-        theme_color: '#663399',
+        background_color: '#702459',
+        theme_color: '#702459',
         display: 'minimal-ui',
         theme_color_in_head: false,
         icon: 'src/images/gatsby-icon.png', // This path is relative to the root of the site.

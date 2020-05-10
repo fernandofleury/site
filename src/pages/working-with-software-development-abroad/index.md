@@ -4,6 +4,9 @@ date: '2020-05-11'
 title: 'How to work with software development abroad'
 locale: 'en'
 description: 'Way less complicated than it looks.'
+duration: '10 minutes'
+translations:
+  - 'pt-BR': '/blog/pt-br/como-trabalhar-com-desenvolvimento-no-exterior'
 ---
 
 ### What I learned during the hiring and relocation process to a new place.

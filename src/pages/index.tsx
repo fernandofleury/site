@@ -10,6 +10,7 @@ interface PostFrontmatter {
   path: string;
   title: string;
   description: string;
+  duration: string;
   locale: string;
 }
 
@@ -41,6 +42,7 @@ const IndexPage: React.FC<{}> = () => {
               title
               locale
               description
+              duration
             }
           }
         }
@@ -50,23 +52,11 @@ const IndexPage: React.FC<{}> = () => {
 
   const Posts = edges
     .filter(post => post.node.frontmatter.locale === 'en')
-    .map(
-      ({
-        node: {
-          id,
-          frontmatter: { path, title, date, description },
-        },
-      }) => (
-        <article key={id} className="mt-2 mb-4">
-          <PostLink
-            path={path}
-            title={title}
-            date={date}
-            description={description}
-          />
-        </article>
-      )
-    );
+    .map(({ node: { id, frontmatter } }) => (
+      <article key={id} className="mt-2 mb-4">
+        <PostLink {...frontmatter} />
+      </article>
+    ));
 
   return (
     <Layout>

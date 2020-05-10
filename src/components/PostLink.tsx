@@ -6,12 +6,21 @@ interface Props {
   title: string;
   description: string;
   date: string;
+  duration: string;
 }
 
-const PostLink: React.FC<Props> = ({ path, title, date, description }) => (
+const PostLink: React.FC<Props> = ({
+  path,
+  title,
+  date,
+  description,
+  duration,
+}) => (
   <Link to={path}>
     <h5 className="text-2xl font-black text-pink-900">{title}</h5>
-    <time className="text-sm text-pink-900">{date}</time>
+    <time className="text-sm text-pink-900">
+      {date} - {duration} read{' '}
+    </time>
     <p className="">{description}</p>
   </Link>
 );
