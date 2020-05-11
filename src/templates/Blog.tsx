@@ -65,9 +65,6 @@ export const pageQuery = graphql`
         path
         title
         duration
-        translations {
-          pt_BR
-        }
       }
     }
   }
