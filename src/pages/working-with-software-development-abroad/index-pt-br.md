@@ -47,9 +47,9 @@ Esse paralelo não foge nem um pouco do momento do mercado que temos aqui. A mai
 Por mais que isso possa parecer groselha, a real é que a única coisa que você precisa pra estar capacitado técnicamente pro cargo são alguns itens.
 Geralmente o domínio de algum framework/biblioteca em específico (de acordo com a empresa), testes, versionamento e tooling já são o suficiente (de verdade). Isso é um pouco diferente das vagas que vemos aqui, que as vezes pedem uma lista enorme que a gente sabe que não é necessário pra fazer o trampo de fato. Mas esse tópico não é o escopo do do texto.
 
-E como você sabe se você está num nível técnico legal pra trabalhar no exterior? Minha sugestão é ingressar no processo de alguma empresa. Talvez isso possa soar meio demais, mas você vai ter que fazer isso de qualquer jeito se realmente quiser ir para o exterior (Eu copiei e colei do tópico de Idioma).
+E como você sabe se você está num nível técnico legal pra trabalhar no exterior? Minha sugestão é denovo ingressar no processo de alguma empresa.
 
-Caso você julgue que precisa melhorar alguns aspectos técnicos, é importante entender o momento da área vs o mercado (O que está acontecendo na sua área de Desenvolvimento vs o que o mercado exige da sua área). Por exemplo: Na área de Front-end tem se falado bastante sobre WebAssembly, mas hoje isso não é requisito nenhum para o mercado Front-end. Só que é uma boa já ficar de olho porque pode ser algo que se torne um diferencial nos próximos meses.
+Caso você julgue que precisa melhorar alguns aspectos técnicos, é importante entender o momento da área vs o mercado (O que está acontecendo na sua área de Desenvolvimento vs o que o mercado exige da sua área).
 
 Após esse tipo de reflexão, é bom entender o que as empresas estão buscando. Se você tem muito interesse em trabalhar na empresa X, analise o que eles usam para se preparar um pouco.
 
@@ -113,7 +113,7 @@ A empresa entende o valor do seu trabalho, e gostaria que você fizesse parte de
 
 ### Vivendo em outro país
 
-A dica de ouro aqui é _aprender a língua nativa_ o quanto antes. Eu morei em alguns países e fiquei enrolando pra fazer isso, com certeza meio maior arrependimento. Você acaba vivendo apenas uma parte de cultura e isso a longo prazo é detrimental até pra sua saúde.
+A dica de ouro aqui é _aprender a língua nativa_ o quanto antes. Eu morei em alguns países e fiquei enrolando pra fazer isso, com certeza meu maior arrependimento. Você acaba vivendo apenas uma parte de cultura e isso a longo prazo é detrimental até pra sua saúde.
 
 Tente sair um pouco da zona de conforto e conhecer novas pessoas, você tem uma oportunidade excelente de expandir seus horizontes e não fazer isso uma experiência só de trabalho. Somos muito sortudos por isso.
 
