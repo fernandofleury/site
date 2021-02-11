@@ -31,7 +31,7 @@ const Template: React.FC<Props> = ({ data }) => {
       <SEO title={title} />
       <h1 className="mt-2 text-2xl lg:text-3xl text-gray-800">{title}</h1>
       <time className="mb-6">
-        {date} - {duration} read
+        {date} - {duration}
       </time>
       {translations && translations.length && (
         <div className="my-8">

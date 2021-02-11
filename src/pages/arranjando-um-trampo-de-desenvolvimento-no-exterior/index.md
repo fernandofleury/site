@@ -2,7 +2,7 @@
 path: '/blog/pt-br/arranjando-um-trampo-de-desenvolvimento-no-exterior'
 date: '2020-05-11'
 title: 'Arranjando um trampo de desenvolvimento no exterior'
-description: ''
+description: 'Bora perder o medo e ganhar em dólar'
 locale: 'pt-BR'
 duration: '10 minutos'
 ---

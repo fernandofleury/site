@@ -19,7 +19,7 @@ const PostLink: React.FC<Props> = ({
   <Link to={path}>
     <h5 className="text-2xl font-black text-pink-900">{title}</h5>
     <time className="text-sm text-pink-900">
-      {date} - {duration} read{' '}
+      {date} - {duration}
     </time>
     <p className="">{description}</p>
   </Link>
