@@ -1,12 +1,11 @@
 ---
-path: '/blog/en/how-to-work-with-software-development-abroad'
+path: '/blog/en/how-to-find-a-software-developer-job-abroad'
 date: '2020-05-11'
-title: 'How to work with Software Development abroad'
+title: 'How to find a software developer job abroad'
 locale: 'en'
-description: 'Way less scary than it looks like'
 duration: '10 minutes'
 translations:
-  - pt-BR: /blog/pt-br/como-trabalhar-com-desenvolvimento-no-exterior
+  - pt-BR: /blog/pt-br/arranjando-um-trampo-de-desenvolvimento-no-exterior
 ---
 
 ### What I learned during the hiring process, relocation and adaptation process for new places.

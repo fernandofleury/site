@@ -37,7 +37,7 @@ const IndexPage: React.FC<{}> = () => {
           node {
             id
             frontmatter {
-              date(formatString: "MMMM DD, YYYY")
+              date(formatString: "MMMM DD, YYYY", locale: "pt-BR")
               path
               title
               locale
@@ -51,7 +51,7 @@ const IndexPage: React.FC<{}> = () => {
   `);
 
   const Posts = edges
-    .filter(post => post.node.frontmatter.locale === 'en')
+    .filter(post => post.node.frontmatter.locale === 'pt-BR')
     .map(({ node: { id, frontmatter } }) => (
       <article key={id} className="mt-2 mb-4">
         <PostLink {...frontmatter} />

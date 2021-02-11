@@ -3,16 +3,15 @@ import React from 'react';
 const Footer: React.FC<{}> = () => (
   <footer className="py-5">
     <div>
-      Currently at{' '}
+      Trabalhando na{' '}
       <a
         className="font-bold text-pink-800 hover:underline"
-        href="https://sumup.com"
+        href="https://twitter.com/henngeone"
         rel="noopener noreferrer"
         target="_blank"
       >
-        @sumup
+        @hennge
       </a>{' '}
-      as Frontend Lead.
     </div>
     <a
       className="font-bold text-pink-800 hover:underline"
@@ -21,6 +20,14 @@ const Footer: React.FC<{}> = () => (
       target="_blank"
     >
       twitter
+    </a>{' '}
+    <a
+      className="font-bold text-pink-800 hover:underline"
+      href="https://t.me/fernandusso"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      telegram
     </a>{' '}
     <a
       className="font-bold text-pink-800 hover:underline"

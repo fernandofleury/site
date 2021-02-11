@@ -1,10 +1,10 @@
 ---
-path: '/blog/pt-br/como-trabalhar-com-desenvolvimento-no-exterior'
+path: '/blog/pt-br/arranjando-um-trampo-de-desenvolvimento-no-exterior'
 date: '2020-05-11'
-title: 'Como trabalhar com desenvolvimento no exterior'
+title: 'Arranjando um trampo de desenvolvimento no exterior'
+description: ''
 locale: 'pt-BR'
-description: 'Muito menos complicado do que parece'
-duration: '10 minutes'
+duration: '10 minutos'
 ---
 
 ### O que eu aprendi durante o processo de contratação, realocação e adaptação para novos lugares.

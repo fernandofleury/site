@@ -2,8 +2,8 @@
 module.exports = {
   siteMetadata: {
     title: 'Fernando Fleury',
-    description: 'Personal website for thoughts',
-    author: '@fernandofleury',
+    description: 'Onde eu escrevo groselha sobre trampar com software',
+    author: 'Fernando Fleury',
   },
   plugins: [
     {

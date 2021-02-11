@@ -6,7 +6,7 @@ const Header: React.FC<{}> = () => (
     <Link to="/">
       <h3 className="text-4xl font-bold">fernando fleury</h3>
     </Link>
-    <h4>software development</h4>
+    <h4>desenvolvimento de software</h4>
   </header>
 );
 
